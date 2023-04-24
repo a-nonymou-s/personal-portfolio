@@ -45,7 +45,7 @@
 
 ## Setup
 
-Navigate to the website using a web browser: https://mikheltodd.github.io/MyPersonalPortfolio/
+Navigate to the website using a web browser: https://a-nonymou-s.github.io/personal-portfolio/
 
 
 ## Usage
