@@ -124,5 +124,21 @@ h1{
   justify-content: space-around;
 }
 .skills-img img{
-  
+
+}
+.contact p{
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  margin-left: 35px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.cont-img{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 150px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
