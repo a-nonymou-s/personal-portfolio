@@ -63,4 +63,4 @@ Created by <a href="https://github.com/a-nonymou-s" target="_blank">@Anony</a> -
 
 ## License
 This project is open source.
-Personal logos should not be used without authorization (personal brand of Mikheltodd). 
+Personal logos should not be used without authorization (personal brand of Anony). 
