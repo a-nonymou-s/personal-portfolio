@@ -51,7 +51,7 @@ h1{
   height: 200px;
   margin-top: 25px;
   margin-bottom: 25px;
-  border-radius: 140px;
+  border-radius: 400px;
 }
 .about-txt{
   display:flex;
@@ -114,4 +114,15 @@ h1{
 .js a:hover{
   color: midnightblue;
   transition-duration: 0.3s;
+}
+.skills-img{
+  border: 5px;
+  border-color: rgb(68, 4, 170);
+  border-style:solid;
+  border-radius: 25px;
+  display: flex;
+  justify-content: space-around;
+}
+.skills-img img{
+  
 }
