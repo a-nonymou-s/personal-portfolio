@@ -17,7 +17,7 @@
 
 
 ## General Information
-- A personal portfolio site to share the projects build by Mikheltodd in the Full Stack Path from Codecademy. 
+- A personal portfolio site to share the projects build by Anony in the Full Stack Path from Codecademy. 
 - Project Objectives:
     * Build a website using HTML, CSS
     * Add interactive feature using JS
