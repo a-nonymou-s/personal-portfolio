@@ -8,3 +8,13 @@ hide.addEventListener("click", function(){
   proj = document.getElementById("js");
   proj.innerHTML = '';
 });
+showMore2 = document.getElementById("more2");
+showMore2.addEventListener("click", function(){
+  proj = document.getElementById("js2");
+  proj.innerHTML = '<img src="https://cdn-icons-png.flaticon.com/512/890/890132.png" width="80px" height="80px"\><button type="button" id="link"><a href="https://github.com/a-nonymou-s/Chrome-Extension-Password-Gen">Project Link!</a></button\>';
+});
+Hide2 = document.getElementById("hide2");
+hide2.addEventListener("click", function(){
+  proj = document.getElementById("js2");
+  proj.innerHTML = '';
+});
